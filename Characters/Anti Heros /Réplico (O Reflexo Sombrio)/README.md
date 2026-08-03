@@ -6,6 +6,12 @@
 
 ![Action Shot](img/action-shot.png)
 
+![Réplico - Versão Melhorada](img/replico-improved.png)
+
+![Réplico - Combate](img/replico-battle.png)
+
+![Réplico - Nas Sombras](img/replico-shadow.png)
+
 </div>
 
 ## Visão Geral
