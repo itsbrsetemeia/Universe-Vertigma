@@ -22,6 +22,7 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 | Nome | Codinome | Nacionalidade | Subcategoria |
 |------|----------|---------------|-------------|
 | Kaelen Vance | O Pêndulo | Australiano | [Hero](Hero%20/) |
+| Ícaro Vellum | Reflexo Negro | Brasileiro | [Hero](Hero%20/) |
 
 ### Vilões
 
