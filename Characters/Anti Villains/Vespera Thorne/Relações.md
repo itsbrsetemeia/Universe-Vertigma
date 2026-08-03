@@ -125,7 +125,17 @@ Vespera sabe da existência de Heitor Almeida Cruz, mas nunca se aproximou dele.
 
 Vespera conhece a reputação de O Pêndulo no submundo de São Paulo. Ela sabe que ele é um vigilante temporal que caça agentes da CDT e que possui habilidades que poderiam ser úteis em sua caçada contra o Devorador de Ecos. No entanto, ela não se aproximou dele — ainda não.
 
-Vespera considera O Pêndulo uma possível aliada, mas também uma possível ameaça. Um homem que manipula o tempo poderia, em teoria, reverter o consumo de suas memórias. Mas esse mesmo homem poderia, se manipulado pela CDT, ser usado para roubar o *Ojo Ciego* dela.
+Vespera considera O Pêndulo uma possível aliada, mas também uma possível ameaça.
+
+### Réplico (O Reflexo Sombrio)
+
+| Atributo | Detalhe |
+|----------|----------|
+| **Tipo** | Anti-Herói / Ameaça Tática |
+| **Relação** | Monitoramento cauteloso |
+| **Motivo da Conexão** | Réplico é uma anomalia artificial que caça tanto heróis quanto vilões. Vespera teme que ele possa usar o *Ojo Ciego* como alvo para "equilibrar" o poder dimensional. |
+
+Vespera sabe que Réplico opera nas sombras, caçando qualquer entidade que abuse de seus poderes. Ela teme que ele possa considerar o *Ojo Ciego* uma ameaça ao equilíbrio — e que ela seja apenas um alvo a ser neutralizado. Por enquanto, ela evita se aproximar dele, mas mantém a possibilidade de uma aliança tática caso a Sociedade Animalesca se torne uma ameaça maior. Um homem que manipula o tempo poderia, em teoria, reverter o consumo de suas memórias. Mas esse mesmo homem poderia, se manipulado pela CDT, ser usado para roubar o *Ojo Ciego* dela.
 
 Por enquanto, ela o observa de longe. O dia em que seus caminhos se cruzarem será o dia em que Vespera terá que decidir: confiança ou traição.
 
