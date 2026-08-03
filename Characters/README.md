@@ -22,8 +22,6 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 | Nome | Codinome | Nacionalidade | Subcategoria |
 |------|----------|---------------|-------------|
 | Kaelen Vance | O Pêndulo | Australiano | [Hero](Hero%20/) |
-| Ícaro Vellum | Reflexo Negro | Brasileiro | [Hero](Hero%20/) |
-
 ### Vilões
 
 | Nome | Codinome | Nacionalidade | Subcategoria |
@@ -39,7 +37,7 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 | Nome | Codinome | Nacionalidade | Subcategoria |
 |------|----------|---------------|-------------|
 | Vespera Thorne | A Tecelã de Sombras | Italiana | [Anti Villains](Anti%20Villains/) |
-
+| Ícaro Vellum | Reflexo Negro | Brasileiro | [Anti Villains](Anti%20Villains/) |
 ---
 
 ## Conexões com a Lore
