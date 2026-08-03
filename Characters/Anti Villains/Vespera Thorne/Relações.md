@@ -103,6 +103,18 @@ Se essa conexão existir, Vespera teria uma pista crucial sobre a origem de sua 
 
 ---
 
+### Porvir (Heitor Almeida Cruz)
+
+| Atributo | Detalhe |
+|----------|----------|
+| **Tipo** | Anti-Herói / Possível aliado dimensional |
+| **Relação** | Contato indireto, alinhamento de experiências |
+| **Motivo da Conexão** | Ambos são jovens exaustos carregando poderes/anomalias dimensionais que consomem suas vidas. Heitor possui a Cisão de Porvir, que projeta clones temporais, enquanto Vespera carrega o *Ojo Ciego*. |
+
+Vespera sabe da existência de Heitor Almeida Cruz, mas nunca se aproximou dele. Ambos operam na zona cinzenta entre herói e vilão, e ambos carregam o fardo de entidades dentro de si — o *Ojo Ciego* consome as memórias de Vespera, enquanto os ecos temporais de Heitor fragmentam sua sanidade. Essa semelhança pode criar uma conexão de entendimento mútuo — ou uma rivalidade destrutiva, caso seus caminhos colidam quando ameaças dimensionais maiores estiverem envolvidas.
+
+---
+
 ### O Pêndulo (Kaelen Vance)
 
 | Atributo | Detalhe |

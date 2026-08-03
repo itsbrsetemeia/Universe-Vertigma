@@ -30,7 +30,9 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 
 ### Anti-Heróis
 
-*Nenhum personagem registrado nesta categoria ainda.*
+| Nome | Codinome | Nacionalidade | Subcategoria |
+|------|----------|---------------|-------------|
+| Heitor Almeida Cruz | Porvir | Brasileiro | [Anti Heros](Anti%20Heros%20/) |
 
 ### Anti-Vilões
 
