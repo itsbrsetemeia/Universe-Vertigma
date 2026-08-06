@@ -4,95 +4,71 @@
 
 ---
 
-Depois de mais um dia comum de aula, eu caminhava tranquilamente de volta para casa.
+O sol já ia baixo quando saí da escola, pintando o asfalto de um laranja cansado. Mais um dia comum. Mais uma tarde igual a tantas outras, com a mochila pesando nas costas e a mente vazia de qualquer pensamento importante.
 
-Era apenas mais uma tarde comum...
+Eu caminhava tranquilo, sem pressa, sem motivo para desconfiar de nada.
 
-Até que deixou de ser.
+Até que deixou de ser uma tarde comum.
 
-Dois homens altos surgiram repentinamente à minha frente.
+Dois homens altos surgiram na minha frente, rápidos demais para serem reais. Antes que meu corpo entendesse o que estava acontecendo, um deles prendeu meu braço com uma força que doeu na hora — e o outro cravou uma agulha no meu pescoço.
 
-Antes que eu pudesse reagir, um deles segurou meu braço enquanto o outro aplicava uma injeção diretamente em meu pescoço.
+Uma queimação gelada subiu pela minha nuca.
 
-Tudo aconteceu rápido demais.
+Tentei gritar. Não saiu som nenhum.
 
-Minha visão ficou turva.
+O mundo começou a girar, as cores se misturando, os rostos se distorcendo. Minhas pernas amoleceram, e por um instante absurdo eu ainda pensei em correr — como se meu corpo já não tivesse deixado de responder.
 
-Meu corpo perdeu as forças.
-
-E, em questão de segundos...
-
-A escuridão tomou conta de tudo.
+Então tudo desabou em preto.
 
 ---
 
 ## Despertar
 
-Quando voltei a abrir os olhos, a primeira coisa que senti foi a dificuldade para mover meus braços.
+A primeira coisa que voltou foi a dor.
 
-Eu estava preso a uma cadeira.
+Um formigamento subindo pelos braços, presos com força demais atrás de uma cadeira fria. Minha cabeça latejava. Quando finalmente consegui abrir os olhos, uma claridade branca e artificial me atingiu como um soco.
 
-A sala era completamente branca, iluminada por luzes artificiais e cercada por equipamentos que eu nunca havia visto antes.
+A sala era imaculada. Fria. Cheia de máquinas que eu jamais tinha visto — luzes piscando em painéis que pareciam ter saído direto de um filme, um zumbido baixo e constante preenchendo o silêncio, quase como uma respiração mecânica.
 
-Tudo parecia extremamente moderno.
+Aquilo não era um sonho ruim. Era real demais para ser sonho.
 
-Quase futurista.
+Ao meu lado, um dos homens que me sequestrara permanecia parado, imóvel, como se tivesse sido programado para esperar. Sem dizer uma palavra, ele soltou as presilhas dos meus pulsos. O metal frio deslizou pela pele, e só então percebi que minhas mãos tremiam.
 
-Ao meu lado estava um dos homens que havia me sequestrado.
-
-Sem dizer uma palavra, ele retirou as presilhas que prendiam meus braços.
-
-Então falou calmamente:
+Ele falou, calmo demais para a situação:
 
 > — Ela está esperando por você.
 
-Não tive tempo para perguntar quem era.
-
-Apenas o segui.
+Não tive tempo de perguntar quem. Meu corpo se levantou antes mesmo que minha mente decidisse obedecer, e o segui por um corredor que parecia não ter fim.
 
 ---
 
 ## Um lugar impossível
 
-Assim que atravessei a porta, fiquei completamente sem palavras.
+Assim que atravessei a porta, o chão pareceu sumir sob meus pés.
 
-O lugar parecia uma escola...
+Diante de mim se abria um lugar que desafiava qualquer explicação. Corredores enormes se estendiam em todas as direções, iluminados por painéis holográficos que flutuavam no ar, exibindo símbolos que eu não conseguia decifrar. O zumbido de tecnologia preenchia o ambiente como um batimento cardíaco silencioso.
 
-Mas definitivamente não era uma escola comum.
+Pessoas de terno caminhavam apressadas, cruzando o corredor com passos firmes e olhares concentrados. Outras conversavam tranquilamente, rindo, tomando café — como se aquele lugar impossível fosse, para elas, apenas mais um dia comum de trabalho.
 
-Corredores enormes.
+Eu, por outro lado, sentia o coração martelando contra o peito, cada passo meu carregado de perguntas que eu não sabia nem por onde começar a fazer.
 
-Painéis holográficos.
-
-Tecnologias que pareciam décadas à frente do mundo que eu conhecia.
-
-Funcionários caminhavam apressados usando ternos elegantes.
-
-Outros conversavam normalmente, como se tudo aquilo fosse apenas mais um dia de trabalho.
-
-Enquanto eu tentava entender onde estava...
-
-Uma voz feminina interrompeu meus pensamentos.
+Foi então que uma voz feminina cortou meus pensamentos.
 
 > — Como vai, Caio?
 
-Olhei imediatamente para trás.
+Virei-me de imediato, o corpo todo tenso.
 
-Uma mulher de aproximadamente quarenta anos caminhava em minha direção.
+Uma mulher se aproximava com passos calculados, a postura ereta, o olhar afiado. Havia algo nela que impunha respeito e medo ao mesmo tempo — a mesma presença gelada que eu só tinha visto antes em *The Handler*, de *The Umbrella Academy*.
 
-Ela possuía uma postura firme, elegante e extremamente imponente.
-
-Sua presença lembrava imediatamente **The Handler**, de *The Umbrella Academy*.
-
-Antes mesmo que eu perguntasse qualquer coisa, ela sorriu.
+Antes que eu conseguisse formular qualquer pergunta, ela sorriu — um sorriso que não chegava aos olhos.
 
 > — Você deve estar se perguntando como eu sei seu nome.
 
-Respirei fundo.
+Respirei fundo, tentando parecer mais firme do que realmente estava.
 
 > — Quem é você?
 
-Ela estendeu a mão.
+Ela estendeu a mão, cada gesto medido, como se tivesse ensaiado aquilo mil vezes.
 
 > — Meu nome é Aurora Bronks.
 
@@ -100,53 +76,49 @@ Ela estendeu a mão.
 
 > — Certo...
 
+Foi a única coisa que consegui dizer.
+
 ---
 
 ## A Central do Tempo
 
-Começamos a caminhar pelos corredores.
+Começamos a caminhar lado a lado pelos corredores intermináveis. Quanto mais avançávamos, mais aquele lugar parecia desafiar qualquer lógica que eu conhecia.
 
-Quanto mais avançávamos, mais aquele lugar parecia impossível.
+Pessoas manipulavam equipamentos desconhecidos com movimentos precisos. Telas gigantescas exibiam gráficos e informações que passavam rápido demais para eu entender. Tudo ali respirava organização, controle, poder — como uma máquina gigantesca funcionando em perfeita sincronia.
 
-Pessoas utilizavam equipamentos desconhecidos.
-
-Grandes telas exibiam informações incompreensíveis.
-
-Tudo parecia funcionar como uma gigantesca organização secreta.
-
-Quebrei o silêncio.
+Não aguentei mais o silêncio.
 
 > — O que eu estou fazendo aqui?
 
-Ela respondeu sem hesitar.
+Ela respondeu sem titubear, como se já esperasse a pergunta.
 
 > — Você veio para ser melhorado.
 
-Franzi a testa.
+Franzi a testa, sentindo um arrepio subir pela espinha.
 
 > — Melhorado?
 
-Ela apontou ao redor.
+Ela abriu os braços, indicando o espaço ao redor.
 
 > — Você percebe que este lugar é diferente de qualquer outro, não percebe?
 
-Assenti.
+Assenti devagar, ainda tentando absorver tudo aquilo.
 
 > — Este complexo existe para proteger a Linha do Tempo.
 
-Ela continuou:
+Ela continuou andando, a voz firme e sem pressa.
 
 > — Chamamos este lugar de **Central do Tempo**.
 
-Depois sorriu.
+Um sorriso quase imperceptível cruzou seu rosto.
 
 > — Lembra da DVA de *Doki*?
 
-Aquilo me pegou completamente de surpresa.
+Aquilo me pegou completamente de surpresa. Um frio passou pelo meu estômago.
 
 > — Como você sabe que eu assisti isso?
 
-Ela respondeu naturalmente.
+Ela respondeu com uma naturalidade que gelava mais do que qualquer ameaça.
 
 > — Nós observamos tudo.
 
@@ -158,13 +130,13 @@ Ela respondeu naturalmente.
 
 > — Conhecemos cada escolha, cada consequência e cada possibilidade.
 
-Fiquei em silêncio por alguns segundos.
+Fiquei em silêncio por alguns segundos, o peso daquelas palavras me esmagando devagar.
 
-Depois perguntei novamente.
+Quando finalmente encontrei voz, perguntei de novo, mais baixo dessa vez:
 
 > — Mas... por que eu?
 
-Ela finalmente respondeu.
+Ela parou de andar. Me encarou.
 
 > — Porque você foi escolhido para integrar nosso exército.
 
@@ -178,37 +150,31 @@ Ela finalmente respondeu.
 
 ## Um novo começo
 
-Demorei alguns segundos para processar tudo aquilo.
-
-Então apenas respondi:
+Demorei alguns segundos para processar aquilo, a mente girando tentando encontrar algum sentido no que tinha acabado de ouvir. No fim, só consegui dizer:
 
 > — Entendi...
 
-Antes que eu perguntasse sobre o treinamento, ela respondeu antecipadamente.
+Antes mesmo que eu formulasse a próxima pergunta, ela já tinha a resposta pronta.
 
 > — Sim.
 
 > — Você será treinado.
 
-Olhei para ela, intrigado.
+Olhei para ela, intrigado, quase desconfortável com a facilidade dela em antecipar cada pensamento meu.
 
 > — Como você sabia que eu iria perguntar isso?
 
-Ela deu um pequeno sorriso.
+Ela deu um pequeno sorriso, quase de deboche.
 
 > — Eu já disse...
 
 > — Sabemos muito mais do que você imagina.
 
-Continuamos caminhando.
-
-Pouco depois ela parou diante de uma porta metálica.
-
-Ao lado havia um número gravado.
+Continuamos caminhando em silêncio até que ela parou diante de uma porta metálica, pesada, com um número gravado ao lado.
 
 **1368.**
 
-Ela retirou uma pequena chave do bolso e a colocou em minha mão.
+Ela tirou uma pequena chave do bolso e colocou na minha mão. O metal estava frio, quase gelado contra minha pele.
 
 > — Este será seu dormitório.
 
@@ -218,19 +184,15 @@ Ela retirou uma pequena chave do bolso e a colocou em minha mão.
 
 > — Cada quarto possui sua própria numeração.
 
-Ela fez uma breve pausa.
+Ela fez uma pausa breve, como se pesasse as próximas palavras.
 
 > — Suas novas roupas já estão lá dentro.
 
-Assenti.
+Assenti, ainda sem saber muito bem o que dizer.
 
 > — Certo.
 
-Ela começou a ir embora.
-
-Mas parou mais uma vez.
-
-Sem sequer olhar para trás, disse:
+Ela começou a se afastar. Mas parou de novo, sem se virar para me olhar.
 
 > — Se eu fosse você...
 
@@ -238,7 +200,7 @@ Sem sequer olhar para trás, disse:
 
 > — Amanhã será um longo dia.
 
-Respirei fundo.
+Respirei fundo, tentando parecer mais confiante do que me sentia.
 
 > — Pode deixar, Comandante.
 
@@ -246,27 +208,25 @@ Respirei fundo.
 
 ## Dormitório 1368
 
-Assim que entrei no quarto, senti o peso de tudo o que havia acontecido.
+Assim que a porta se fechou atrás de mim com um clique seco, o peso de tudo finalmente desabou sobre meus ombros.
 
-Ainda usava o uniforme da escola.
+Ainda usava o uniforme da escola. A gravata torta, a camisa amassada — pequenos detalhes de uma vida que, até algumas horas atrás, parecia completamente normal.
 
-Minha cabeça estava cheia de perguntas.
+Minha cabeça fervilhava de perguntas.
 
 Quem eram aquelas pessoas?
 
 O que realmente era a Central do Tempo?
 
-Por que eu havia sido escolhido?
+Por que, entre tantas pessoas no mundo, tinha sido eu o escolhido?
 
-Olhei ao redor.
+Olhei ao redor. O dormitório era simples, organizado, e — apesar de tudo — surpreendentemente aconchegante.
 
-O dormitório era simples, organizado e surpreendentemente confortável.
+Mas o cansaço venceu qualquer resquício de curiosidade.
 
-Mas o cansaço venceu qualquer curiosidade.
+Deixei-me cair sobre a cama sem nem trocar de roupa, o corpo pesado como chumbo.
 
-Caí sobre a cama sem nem mesmo trocar de roupa.
-
-E, pela segunda vez naquele dia...
+E, pela segunda vez naquele mesmo dia impossível...
 
 Apaguei completamente.
 
