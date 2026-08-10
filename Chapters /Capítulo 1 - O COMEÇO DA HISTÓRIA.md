@@ -1,4 +1,4 @@
-# 📖 Capítulo 1 — O Primeiro Dia
+# 📖 Capítulo 1 — O COMEÇO DA HISTÓRIA
 
 > **Ponto de Vista (POV): Caio**
 
