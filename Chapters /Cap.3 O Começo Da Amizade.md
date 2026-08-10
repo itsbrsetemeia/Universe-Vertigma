@@ -1,10 +1,8 @@
-# 📖 Capítulo 3 — Os 5 MELHORES
+# 📖 Cap.3 O Começo Da Amizade
 
 > **Ponto de Vista (POV): Caio**
 
 ---
-
-## ⏰ Uma visita inesperada
 
 Acordo com o despertador tocando.
 
