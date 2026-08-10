@@ -1,4 +1,4 @@
-# 📖 Capítulo 5 — O Segredo da Comandante
+# 📖 Capítulo 5 — Em Um Mundo Tão Cruel Assim?
 
 > **Ponto de Vista (POV): Sylvie**
 
