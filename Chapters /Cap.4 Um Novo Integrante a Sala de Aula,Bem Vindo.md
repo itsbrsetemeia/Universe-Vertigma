@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 Uma surpresa nas listas
+## Uma surpresa nas listas
 
 Sylvie continuava analisando as listas do **Mural de Avisos**.
 
@@ -58,7 +58,7 @@ E começou a correr.
 
 ---
 
-## 🏃 Correndo pela CDT
+## Correndo pela CDT
 
 > — Sylvie!
 
@@ -140,7 +140,7 @@ Ela abriu a porta e chamou o professor.
 
 ---
 
-## 🏫 O novo aluno
+## O novo aluno
 
 Observei Sylvie conversando rapidamente com o professor.
 
@@ -210,7 +210,7 @@ Ela fez um gesto para que eu prestasse atenção.
 
 ---
 
-## 📚 Onde estão meus materiais?
+## Onde estão meus materiais?
 
 Olhei para minha mesa.
 
@@ -266,7 +266,7 @@ Finalmente conseguimos começar a aula.
 
 ---
 
-## 🈶 Aula de Mandarim
+## Aula de Mandarim
 
 O professor começou a explicar os fundamentos do mandarim.
 
@@ -286,7 +286,7 @@ Mesmo assim, pouco a pouco, comecei a aprender.
 
 ---
 
-# 🍽️ Lanche da tarde
+# Lanche da tarde
 
 Depois de horas de aula, finalmente chegou o momento de descansar.
 
@@ -354,7 +354,7 @@ E, principalmente...
 
 ---
 
-# 👧 Sylvie
+# Sylvie
 
 > *"Antes de continuar, eu percebi que ainda não tinha apresentado oficialmente a Sylvie."*
 
@@ -368,7 +368,7 @@ Então, aqui estão algumas informações sobre ela:
 | **Idade** | 14 anos |
 | **Nacionalidade** | França 🇫🇷 |
 
-### 💭 Sobre Sylvie
+### Sobre Sylvie
 
 Sylvie é uma das primeiras pessoas que Caio conhece dentro da **Central do Tempo**.
 
