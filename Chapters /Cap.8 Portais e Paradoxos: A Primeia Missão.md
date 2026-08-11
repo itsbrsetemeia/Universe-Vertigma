@@ -62,7 +62,7 @@ Dessa vez, Caio parecia realmente interessado.
 
 ---
 
-# ⌚ As Pulseiras Atemporais
+# As Pulseiras Atemporais
 
 A Comandante respondeu:
 
@@ -120,7 +120,7 @@ Ele finalmente pareceu satisfeito.
 
 ---
 
-# 🥋 O uniforme de missão
+# O uniforme de missão
 
 A Comandante caminhou até um grande armário localizado no fundo da sala.
 
@@ -170,7 +170,7 @@ Apontei discretamente para um técnico que estava trabalhando no fundo da sala.
 
 ---
 
-# ⚙️ Ativando o portal
+# Ativando o portal
 
 Observei Demétrio e sua equipe assumirem suas posições.
 
@@ -220,7 +220,7 @@ Ele pareceu ainda mais curioso.
 
 ---
 
-# 🌌 A primeira missão
+# A primeira missão
 
 Demétrio terminou os últimos ajustes.
 
