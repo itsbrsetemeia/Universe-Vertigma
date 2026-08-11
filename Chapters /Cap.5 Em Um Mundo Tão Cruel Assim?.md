@@ -4,7 +4,7 @@
 
 ---
 
-## 🍽️ Depois do lanche
+## Depois do lanche
 
 Tomamos o nosso "lanche da tarde" praticamente em silêncio.
 
@@ -38,7 +38,7 @@ A porta se fechou atrás de mim.
 
 ---
 
-## 🕰️ Uma preocupação
+## Uma preocupação
 
 Fiquei diante da Comandante.
 
@@ -224,7 +224,7 @@ Então abri a porta.
 
 ---
 
-## 🚪 Do outro lado
+## Do outro lado
 
 Assim que atravessei a porta...
 
@@ -324,7 +324,7 @@ Não conseguia esquecer as palavras da Comandante.
 
 ---
 
-## 🩸 O segredo
+## O segredo
 
 Enquanto caminhávamos, uma frase continuava se repetindo na minha cabeça.
 
