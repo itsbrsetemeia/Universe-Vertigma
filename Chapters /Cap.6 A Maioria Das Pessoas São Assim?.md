@@ -32,7 +32,7 @@ Revirei os olhos.
 
 ---
 
-## 🍝 Almoço
+## Almoço
 
 Chegamos ao refeitório.
 
@@ -168,7 +168,7 @@ Então começou a comer muito mais rápido.
 
 ---
 
-# 📢 Chamado da Comandante
+# Chamado da Comandante
 
 Antes que pudéssemos nos levantar para devolver as bandejas, uma voz ecoou pelos alto-falantes do refeitório.
 
@@ -188,7 +188,7 @@ Depois seguimos em direção aos elevadores.
 
 ---
 
-# 🥤 A máquina de bebidas
+# A máquina de bebidas
 
 Enquanto caminhávamos, Caio parou repentinamente.
 
@@ -284,7 +284,7 @@ O elevador estava chegando.
 
 ---
 
-# 🛗 O quinto andar
+# O quinto andar
 
 As portas do elevador se abriram.
 
