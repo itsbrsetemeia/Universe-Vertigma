@@ -48,7 +48,7 @@ Quase como um aviso de que algo estava prestes a acontecer.
 
 ---
 
-## 🧰 O conteúdo da maleta
+## O conteúdo da maleta
 
 Observo Sylvie retirar algumas peças metálicas da maleta.
 
@@ -172,7 +172,7 @@ Meus olhos se arregalam.
 
 ---
 
-# 📡 Comunicação
+# Comunicação
 
 De repente...
 
@@ -326,7 +326,7 @@ E, em algum lugar daquela cidade destruída...
 
 ---
 
-## 🎯 STATUS DA MISSÃO
+## STATUS DA MISSÃO
 
 **Local:** Varsóvia, Polônia  
 **Horário:** 21:30  
