@@ -46,7 +46,7 @@ Então abre um sorriso.
 
 ---
 
-## 🗺️ O Mural de Avisos
+## O Mural de Avisos
 
 Sylvie entra no meu quarto e começa a procurar alguma coisa no mapa da **CDT** que está na parede.
 
@@ -104,7 +104,7 @@ Saímos do quarto.
 
 ---
 
-## 🚪 A porta
+## A porta
 
 Paro em frente à porta.
 
@@ -158,7 +158,7 @@ Começamos a caminhar.
 
 ---
 
-# ⭐ Os 5 MELHORES
+# Os 5 MELHORES
 
 Depois de algum tempo, finalmente chegamos ao **Mural de Avisos**.
 
@@ -294,7 +294,7 @@ Ela aponta para o Mural de Avisos.
 
 ---
 
-## 📋 As listas
+## As listas
 
 Levanto do chão e tento me recompor.
 
