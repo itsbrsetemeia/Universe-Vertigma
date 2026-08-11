@@ -12,6 +12,7 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 | [Villains](Villains%20/) | Vilões — antagonistas com motivações que colidem com os heróis |
 | [Anti Heros](Anti%20Heros%20/) | Anti-heróis — personagens com métodos questionáveis mas motivações nobres |
 | [Anti Villains](Anti%20Villains/) | Anti-vilões — personagens na zona cinzenta entre bem e mal |
+| [Entities](Entities%20/) | Entidades cósmicas — seres que existem acima da compreensão mortal |
 
 ---
 
@@ -41,6 +42,12 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 |------|----------|---------------|-------------|
 | Vespera Thorne | A Tecelã de Sombras | Italiana | [Anti Villains](Anti%20Villains/) |
 | Ícaro Vellum | Reflexo Negro | Brasileiro | [Anti Villains](Anti%20Villains/) |
+
+### Entidades
+
+| Nome | Codinome | Nacionalidade | Subcategoria |
+|------|----------|---------------|-------------|
+| Aion | O Guardião do Fluxo | Desconhecida | [Entities](Entities%20/) |
 ---
 
 ## Conexões com a Lore
