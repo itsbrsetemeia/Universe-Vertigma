@@ -72,7 +72,7 @@ Olhei para ele.
 
 ---
 
-# 🎁 O presente
+# O presente
 
 A Comandante continuou:
 
@@ -104,7 +104,7 @@ Fingi não ter visto nada e voltei minha atenção para a Comandante.
 
 ---
 
-## 👥 Uma dupla?
+## Uma dupla?
 
 Depois de alguns segundos, Caio olhou para mim.
 
@@ -166,7 +166,7 @@ Ela fez uma pequena pausa.
 
 ---
 
-# ⭐ Os 10 MELHORES
+# Os 10 MELHORES
 
 Ainda não estava convencida.
 
@@ -218,7 +218,7 @@ Fiquei alguns segundos em silêncio.
 
 ---
 
-## 🎯 Aceitando a missão
+## Aceitando a missão
 
 Caio finalmente ficou sério.
 
