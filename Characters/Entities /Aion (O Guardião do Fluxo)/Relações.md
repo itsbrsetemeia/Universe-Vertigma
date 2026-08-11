@@ -2,10 +2,10 @@
 
 Aion opera acima de heróis, vilões e deuses. Suas relações são definidas por dever, respeito e uma compreensão profunda do Grande Desenho. Ele não possui inimigos no sentido tradicional, pois ninguém consegue realmente ameaçá-lo. Mas possui alianças, agentes e entidades que ele monitora constantemente.
 
-## Equinox — O Principal Agente
+## Equinox (Asterion) — O Principal Agente
 Aion e Equinox possuem a relação mais importante do universo cósmico de Vertigma. Equinox é o principal agente de Aion — não seu servo, não seu escravo, mas seu representante. Aion nunca obriga Equinox a agir; apenas apresenta os sinais. A decisão de agir sempre pertence a Equinox. Quando Equinox erra, a responsabilidade continua sendo dele.
 
-Para Equinox, Aion é o único ser em quem confia plenamente. Para Aion, Equinox não é uma arma, mas um sucessor em potencial caso um dia seu ciclo como Guardião do Fluxo chegue ao fim.
+Para Equinox, Aion é o único ser em quem confia plenamente. Para Aion, Equinox não é uma arma, mas um sucessor em potencial caso um dia seu ciclo como Guardião do Fluxo chegue ao fim. Equinox foi transformado por um ritual ancestral que lhe deu a cabeça de um cavalo negro e olhos dourados luminosos, tornando-se o executor silencioso das decisões mais difíceis do multiverso.
 
 ## Cebryn Aster — O Colecionador de Destinos
 Aion e Cebryn Aster se conhecem há eras. Cebryn coleciona destinos, enquanto Aion protege os caminhos que levam até eles. Os dois raramente discordam, mas quando o fazem, até entidades cósmicas ficam apreensivas. Sua relação é de respeito mútuo baseado em bilhões de anos de coexistência.

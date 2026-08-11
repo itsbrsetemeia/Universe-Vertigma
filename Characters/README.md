@@ -42,6 +42,7 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 |------|----------|---------------|-------------|
 | Vespera Thorne | A Tecelã de Sombras | Italiana | [Anti Villains](Anti%20Villains/) |
 | Ícaro Vellum | Reflexo Negro | Brasileiro | [Anti Villains](Anti%20Villains/) |
+| Asterion | Equinox | Desconhecida | [Anti Villains](Anti%20Villains/) |
 
 ### Entidades
 
