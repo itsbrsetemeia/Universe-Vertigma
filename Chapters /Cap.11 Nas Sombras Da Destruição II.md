@@ -1,4 +1,4 @@
-## Capítulo 11 — O Primeiro Confronto
+## Capítulo 11 — Nas Sombras Da Destruição II
 
 Começamos a explorar mais a fundo o depósito quando, de repente, encontramos uma porta de ferro.
 
