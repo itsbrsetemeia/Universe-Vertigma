@@ -31,6 +31,7 @@ Esta subcategoria cataloga as realidades paralelas formalmente documentadas do G
 | V-023 | Universo da Realidade Base | Coexistência social entre magia, ciência, super-humanos e o risco de uma perfeição sem liberdade. | Expandido | [Abrir dossiê](V-023%20%E2%80%94%20Universo%20da%20Realidade%20Base/) |
 | V-024 | Universo da Consciência | Campo Noético, memória ontológica, sonhos coletivos e o direito de ser alguém. | Expandido | [Abrir dossiê](V-024%20%E2%80%94%20Universo%20da%20Consci%C3%AAncia/) |
 | V-202 | Universo Principal | Realidade narrativa central onde conflitos humanos, cósmicos e multiversais se encontram. | Consolidado | [Abrir dossiê](V-202%20%E2%80%94%20Universo%20Principal/) |
+| Ø / D | Universo Diálico | Causalidade inconsistente, memórias fraturadas e o custo de tentar corrigir a realidade. | Consolidado | [Abrir dossiê](%C3%98-D%20%E2%80%94%20Universo%20Di%C3%A1lico/) |
 
 > **Nota de catalogação:** novos universos paralelos só devem ser acrescentados quando possuírem uma função narrativa definida e uma pasta documental própria.
 
