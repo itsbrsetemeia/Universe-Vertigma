@@ -24,6 +24,7 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 |------|----------|---------------|-------------|
 | Kaelen Vance | O Pêndulo | Australiano | [Hero](Hero%20/) |
 | Aristeus | O Homem de Ouro | Grega | [Hero](Hero%20/) |
+
 ### Vilões
 
 | Nome | Codinome | Nacionalidade | Subcategoria |
@@ -32,10 +33,15 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 
 ### Anti-Heróis
 
-| Nome | Codinome | Nacionalidade | Subcategoria |
-|------|----------|---------------|-------------|
-| Heitor Almeida Cruz | Porvir | Brasileiro | [Anti Heros](Anti%20Heros%20/) |
-| Desconhecido (Sujeito R-0) | Réplico | Desconhecida | [Anti Heros](Anti%20Heros%20/) |
+| Nome | Codinome | Origem | Subcategoria |
+|------|----------|--------|-------------|
+| Heitor Almeida Cruz | Porvir | Brasileiro — Universo V-202 | [Anti Heros](Anti%20Heros%20/) |
+| Desconhecido (Sujeito R-0) | Réplico | Desconhecida — Universo V-202 | [Anti Heros](Anti%20Heros%20/) |
+| Naiara Voss | Índice | Diálica — Universo Ø / D | [Anti Heros](Anti%20Heros%20/) |
+| Augusto Reis | Muleta | Diálico — Universo Ø / D | [Anti Heros](Anti%20Heros%20/) |
+| Azura Ramalho | Ponto Cego | Diálica — Universo Ø / D | [Anti Heros](Anti%20Heros%20/) |
+| Mauro Salomão | Reverso | Diálico — Universo Ø / D | [Anti Heros](Anti%20Heros%20/) |
+| Talita Neri | Cisma | Diálica — Universo Ø / D | [Anti Heros](Anti%20Heros%20/) |
 
 ### Anti-Vilões
 
@@ -50,8 +56,9 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 | Nome | Codinome | Nacionalidade | Subcategoria |
 |------|----------|---------------|-------------|
 | Aion | O Guardião do Fluxo | Desconhecida | [Entities](Entities%20/) |
+
 ---
 
 ## Conexões com a Lore
 
-Os personagens deste diretório estão interligados com organizações, locais, artefatos e eventos de outras seções do repositório. Consulte o README principal do projeto para entender a estrutura completa do Universo Vertigma.
+Os personagens deste diretório estão interligados com organizações, locais, artefatos e eventos de outras seções do repositório. A chegada de personagens do Universo Ø / D — Diálico expande o escopo multiversal do Vertigma sem alterar os acontecimentos estabelecidos no V-202. Consulte o README principal do projeto para entender a estrutura completa do Universo Vertigma.
