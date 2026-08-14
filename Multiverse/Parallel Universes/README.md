@@ -24,6 +24,7 @@ Esta subcategoria cataloga as realidades paralelas formalmente documentadas do G
 | V-016 | Universo dos Monstros | Criaturas ancestrais, direitos ecológicos e o despertar do Primevo. | Expandido | [Abrir dossiê](V-016%20%E2%80%94%20Universo%20dos%20Monstros/) |
 | V-017 | Universo dos Anti-Heróis | Justiça cinzenta, códigos pessoais e a ameaça de controle moral absoluto. | Expandido | [Abrir dossiê](V-017%20%E2%80%94%20Universo%20dos%20Anti-Her%C3%B3is/) |
 | V-018 | Universo da Guerra Eterna | Militarização cíclica, trauma coletivo e a possibilidade de recusar a luta. | Expandido | [Abrir dossiê](V-018%20%E2%80%94%20Universo%20da%20Guerra%20Eterna/) |
+| V-019 | Universo do Mistério | Conspirações em camadas, arquivos futuros e o perigo de encontrar a verdade. | Expandido | [Abrir dossiê](V-019%20%E2%80%94%20Universo%20do%20Mist%C3%A9rio/) |
 
 > **Nota de catalogação:** novos universos paralelos só devem ser acrescentados quando possuírem uma função narrativa definida e uma pasta documental própria.
 
