@@ -8,6 +8,7 @@
 | Codinome | Wonder Boy |
 | Título público | O Filho do Sol |
 | Idade | 15 anos |
+| Universo | V-202 |
 | Origem | Alice Springs, Território do Norte, Austrália |
 | Categoria | Herói cósmico terrestre |
 | Fonte de poder | Energia estelar convertida em Plasma Biofotônico |
