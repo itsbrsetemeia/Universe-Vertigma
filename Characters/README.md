@@ -27,6 +27,7 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 | Kael Solis | Wonder Boy — O Filho do Sol | Australiana | [Hero](Hero%20/) |
 | Kendrick Everett | Irredutível | Canadense | [Hero](Hero%20/) |
 | Kael Moreau | Paradoxo | Franco-canadense | [Hero](Hero%20/) |
+| Aurora Valen | Arcana | Brasileira | [Hero](Hero%20/) |
 
 ### Vilões
 

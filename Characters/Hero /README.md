@@ -11,6 +11,7 @@ Esta subcategoria contém os personagens que lutam pelo bem e protegem os inocen
 | Kael Solis | Wonder Boy — O Filho do Sol | Australiana |
 | Kendrick Everett | Irredutível | Canadense |
 | Kael Moreau | Paradoxo | Franco-canadense |
+| Aurora Valen | Arcana | Brasileira |
 ## Arquivos Individuais
 
 - [Astra](Astra's%20files%20/)
@@ -19,4 +20,5 @@ Esta subcategoria contém os personagens que lutam pelo bem e protegem os inocen
 - [Wonder Boy (Kael Solis)](Wonder%20Boy%20(Kael%20Solis)/)
 - [Kendrick Everett (Irredutível)](Kendrick%20Everett%20(Irredut%C3%ADvel)/)
 - [Kael Moreau (Paradoxo)](Kael%20Moreau%20(Paradoxo)/)
+- [Aurora Valen (Arcana)](Aurora%20Valen%20(Arcana)/)
 
