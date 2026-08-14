@@ -16,4 +16,6 @@ A **Contraprova — Vigilantes do Intervalo** é a primeira equipe registrada do
 
 ## Destaque do V-202
 
+Os [Portadores](Groups%20of%20Heroes%20/Portadores/) protegem pessoas afetadas por Atributos, poderes que surgem de desejos póstumos. Seu lema, “Carregar não é obedecer”, define a tensão entre legado, identidade e liberdade.
+
 No **V-202 — Universo Principal**, [A Legião](Groups%20of%20Heroes%20/A%20Legião/) reúne especialistas para crises que ultrapassam capacidades governamentais, enquanto [The Famous 5](Groups%20of%20Heroes%20/The%20Famous%205/) representa a dimensão pública, cotidiana e inspiradora do heroísmo. As duas equipes coexistem sem competir por uma única definição de proteção.
