@@ -30,6 +30,7 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 | Nome | Codinome | Nacionalidade | Subcategoria |
 |------|----------|---------------|-------------|
 | Dr. Kaelen Thorne | O Silêncio Entrópico | Polonês | [Villains](Villains%20/) |
+| Desconhecido | O Absoluto | Desconhecida — V-023 | [Villains](Villains%20/) |
 
 ### Anti-Heróis
 

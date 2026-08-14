@@ -28,6 +28,7 @@ Esta subcategoria cataloga as realidades paralelas formalmente documentadas do G
 | V-020 | Universo da Exploração | Territórios não cartografados, Relicários e descobertas maiores que a geografia. | Expandido | [Abrir dossiê](V-020%20%E2%80%94%20Universo%20da%20Explora%C3%A7%C3%A3o/) |
 | V-021 | Universo do Desconhecido | Anomalias que reagem ao conhecimento, Áreas Nulas e a fragilidade da realidade. | Expandido | [Abrir dossiê](V-021%20%E2%80%94%20Universo%20do%20Desconhecido/) |
 | V-022 | Universo das Dimensões | Camadas de realidade, Variantes, Fendas Dimensionais e o risco das Convergências. | Expandido | [Abrir dossiê](V-022%20%E2%80%94%20Universo%20das%20Dimens%C3%B5es/) |
+| V-023 | Universo da Realidade Base | Coexistência social entre magia, ciência, super-humanos e o risco de uma perfeição sem liberdade. | Expandido | [Abrir dossiê](V-023%20%E2%80%94%20Universo%20da%20Realidade%20Base/) |
 
 > **Nota de catalogação:** novos universos paralelos só devem ser acrescentados quando possuírem uma função narrativa definida e uma pasta documental própria.
 
