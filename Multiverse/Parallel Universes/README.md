@@ -7,6 +7,7 @@ Esta subcategoria cataloga as realidades paralelas formalmente documentadas do G
 | Código | Nome | Função narrativa | Estado do dossiê | Acesso |
 |---|---|---|---|---|
 | V-001 | Universo da Origem | Antiguidade, mitologia, memória perdida e legados primevos. | Fundacional | [Abrir dossiê](V-001%20%E2%80%94%20Universo%20da%20Origem/) |
+| V-002 | Universo Distópico | Ordem social preditiva, liberdade condicionada e segurança como mecanismo de controle. | Expandido | [Abrir dossiê](V-002%20%E2%80%94%20Universo%20Distópico/) |
 
 > **Nota de catalogação:** novos universos paralelos só devem ser acrescentados quando possuírem uma função narrativa definida e uma pasta documental própria.
 

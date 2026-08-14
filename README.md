@@ -38,6 +38,7 @@ O objetivo é criar um universo vivo, onde cada personagem, organização, plane
 📁 Organizations/
 📁 Species/
 📁 Powers/
+📁 Technologies/
 📁 Artifacts/
 📁 Locations/
 📁 Planets/
