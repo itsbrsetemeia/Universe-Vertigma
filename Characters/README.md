@@ -31,6 +31,7 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 | Nome | Codinome | Nacionalidade | Subcategoria |
 |------|----------|---------------|-------------|
 | Dr. Kaelen Thorne | O Silêncio Entrópico | Polonês | [Villains](Villains/) |
+| Adrian Vale | Dominus — O Homem que Quis Ser Maior que Deus | V-202 — Universo Principal | [Villains](Villains/) |
 | Desconhecido | O Absoluto | Desconhecida — V-023 | [Villains](Villains/) |
 | Desconhecido | O Mnemônico | Desconhecida — V-024 | [Villains](Villains/) |
 
