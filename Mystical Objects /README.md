@@ -150,3 +150,5 @@ Cada objeto deve parecer uma peça importante da história do multiverso, e não
 ## Registro recente
 
 O [Códice de Âmbar](Books/C%C3%B3dice%20de%20%C3%82mbar/) é um livro proibido do **V-006 — Universo Místico**. Guardado pela Ordem do Véu, ele aprofunda a Lei da Equivalência ao descrever formas de deslocar custos mágicos para pessoas, lugares ou futuros não consentidos.
+
+O [Livro Impossível](Books/O%20Livro%20Imposs%C3%ADvel/) é uma Anomalia textual do **V-021 — Universo do Desconhecido**. Custodiado pelo Instituto do Limiar, ele modifica seus relatos após cada leitura e pode reordenar memória, causalidade e a própria relação entre leitor e história.

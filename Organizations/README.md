@@ -21,3 +21,5 @@ No [V-003 — Mundo sem Heróis](../Multiverse/Parallel%20Universes/V-003%20%E2%
 No [V-005 — Futuro Pós-Apocalíptico](../Multiverse/Parallel%20Universes/V-005%20%E2%80%94%20Futuro%20P%C3%B3s-Apocal%C3%ADptico/), [A Restauração](Neutral%20Organizations/A%20Restaura%C3%A7%C3%A3o/) e [Os Herdeiros da Terra](Neutral%20Organizations/Os%20Herdeiros%20da%20Terra/) disputam se a humanidade deve recuperar o que perdeu ou construir uma civilização inteiramente nova.
 
 No [V-006 — Universo Místico](../Multiverse/Parallel%20Universes/V-006%20%E2%80%94%20Universo%20M%C3%ADstico/), a [Ordem do Véu](Neutral%20Organizations/Ordem%20do%20V%C3%A9u/) guarda conhecimentos arcanos capazes de proteger civilizações ou abrir passagens que nunca deveriam ser atravessadas.
+
+No [V-021 — Universo do Desconhecido](../Multiverse/Parallel%20Universes/V-021%20%E2%80%94%20Universo%20do%20Desconhecido/), o [Instituto do Limiar](Neutral%20Organizations/Instituto%20do%20Limiar/) enfrenta Anomalias que podem reagir ao simples ato de serem compreendidas. Sua contenção protege comunidades, mas transforma ignorância deliberada em uma escolha ética e política.
