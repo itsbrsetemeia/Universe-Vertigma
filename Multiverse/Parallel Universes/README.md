@@ -20,6 +20,7 @@ Esta subcategoria cataloga as realidades paralelas formalmente documentadas do G
 | V-012 | Universo Cósmico | Civilização galáctica, ciclos de extinção e a busca pelo lugar humano no cosmos. | Expandido | [Abrir dossiê](V-012%20%E2%80%94%20Universo%20C%C3%B3smico/) |
 | V-013 | Universo Steampunk | Éter-vapor, desigualdade industrial e o despertar da consciência mecânica. | Expandido | [Abrir dossiê](V-013%20%E2%80%94%20Universo%20Steampunk/) |
 | V-014 | Universo Medieval | Reinos, magia ritual, povos ancestrais e profecias que definem lendas. | Expandido | [Abrir dossiê](V-014%20%E2%80%94%20Universo%20Medieval/) |
+| V-015 | Universo Biológico | Código Primevo, bioarquitetura e a disputa sobre os direitos de toda vida projetada. | Expandido | [Abrir dossiê](V-015%20%E2%80%94%20Universo%20Biol%C3%B3gico/) |
 
 > **Nota de catalogação:** novos universos paralelos só devem ser acrescentados quando possuírem uma função narrativa definida e uma pasta documental própria.
 
