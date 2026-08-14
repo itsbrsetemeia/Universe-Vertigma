@@ -9,6 +9,7 @@ Esta subcategoria cataloga as realidades paralelas formalmente documentadas do G
 | V-001 | Universo da Origem | Antiguidade, mitologia, memória perdida e legados primevos. | Fundacional | [Abrir dossiê](V-001%20%E2%80%94%20Universo%20da%20Origem/) |
 | V-002 | Universo Distópico | Ordem social preditiva, liberdade condicionada e segurança como mecanismo de controle. | Expandido | [Abrir dossiê](V-002%20%E2%80%94%20Universo%20Distópico/) |
 | V-003 | Mundo sem Heróis | Heroísmo civil, ausência de super-humanos e a primeira ruptura do aprimoramento humano. | Expandido | [Abrir dossiê](V-003%20%E2%80%94%20Mundo%20sem%20Her%C3%B3is/) |
+| V-004 | Realidade Alternativa | Efeito borboleta histórico, identidades correspondentes e a escolha entre cronologias. | Expandido | [Abrir dossiê](V-004%20%E2%80%94%20Realidade%20Alternativa/) |
 
 > **Nota de catalogação:** novos universos paralelos só devem ser acrescentados quando possuírem uma função narrativa definida e uma pasta documental própria.
 
