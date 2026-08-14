@@ -33,3 +33,11 @@ Cidades cultivam paredes, vasos, sistemas respiratórios e estruturas regenerati
 O **Instituto Genesis** busca oficialmente eliminar sofrimento por meio da vida reprogramável. Seus arquivos ocultos, porém, registram organismos classificados como “não humanos” e experimentos apagados. O Código Primevo aparece em padrões de toda vida conhecida e até em organismos extraterrestres. Ele pode ser linguagem biológica universal, herança de civilização antiga ou preparação da vida para uma finalidade desconhecida.
 
 O V-015 pergunta: **“E se pudéssemos reescrever a própria vida?”** Sua resposta nunca deve presumir que evoluir significa melhorar.
+
+## Dossiês de aprofundamento
+
+| Documento | Conteúdo |
+|---|---|
+| [Bioarquitetura e Ecossistemas Novos](Bioarquitetura%20e%20Ecossistemas%20Novos.md) | Cidades cultivadas, infraestrutura viva e ecossistemas que ultrapassam a função para a qual foram criados. |
+| [O Código Primevo](O%20C%C3%B3digo%20Primevo.md) | Linguagem biológica universal, possibilidades de reescrita e limites éticos do conhecimento genético. |
+| [Potencial Narrativo](Potencial%20Narrativo.md) | Arcos futuros e protocolo de expansão da realidade. |
