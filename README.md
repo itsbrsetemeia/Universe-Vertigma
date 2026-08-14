@@ -80,6 +80,10 @@ Cada arquivo deste repositório representa uma pequena parte do universo.
 
 Nenhuma informação existe isoladamente: personagens influenciam eventos, eventos moldam civilizações e civilizações alteram o destino do multiverso.
 
+## Universo Principal
+
+O [V-202 — Universo Principal](Multiverse/Parallel%20Universes/V-202%20%E2%80%94%20Universo%20Principal/) é a realidade narrativa central de Vertigma. Ele reúne histórias humanas, científicas, místicas, cósmicas e multiversais sem reduzir os demais universos a extensões subordinadas.
+
 #🚀 Status do Projeto
 
 🟡 Em desenvolvimento ativo.

@@ -58,6 +58,8 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 | Nome | Codinome | Nacionalidade | Subcategoria |
 |------|----------|---------------|-------------|
 | Aion | O Guardião do Fluxo | Desconhecida | [Entities](Entities%20/) |
+| Apolysis | A Redenção | V-202 — Universo Principal | [Entities](Entities%20/) |
+| Apóleia | A Perdição | V-202 — Universo Principal | [Entities](Entities%20/) |
 
 ---
 

@@ -7,7 +7,11 @@ Esta subcategoria contém personagens que existem acima da compreensão mortal �
 | Nome | Títulos | Alinhamento |
 |------|---------|-------------|
 | Aion | O Guardião do Fluxo, O Zelador do Grande Desenho | Verdadeiro Neutro |
+| Apolysis | A Redenção | Entidade conceitual de restauração e retorno ao equilíbrio |
+| Apóleia | A Perdição | Entidade conceitual de perda, deterioração e fim |
 
 ## Arquivos Individuais
 
 - [Aion (O Guardião do Fluxo)](Aion%20(O%20Guardi%C3%A3o%20do%20Fluxo)/)
+- [Apolysis — A Redenção](Apolysis/)
+- [Apóleia — A Perdição](Ap%C3%B3leia/)
