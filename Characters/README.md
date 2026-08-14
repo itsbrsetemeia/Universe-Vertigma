@@ -9,7 +9,7 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 | Subcategoria | Descrição |
 |--------------|-----------|
 | [Hero](Hero%20/) | Heróis — personagens que lutam pelo bem e protegem os inocentes |
-| [Villains](Villains%20/) | Vilões — antagonistas com motivações que colidem com os heróis |
+| [Villains](Villains/) | Vilões — antagonistas com motivações que colidem com os heróis |
 | [Anti Heros](Anti%20Heros%20/) | Anti-heróis — personagens com métodos questionáveis mas motivações nobres |
 | [Anti Villains](Anti%20Villains/) | Anti-vilões — personagens na zona cinzenta entre bem e mal |
 | [Entities](Entities%20/) | Entidades cósmicas — seres que existem acima da compreensão mortal |
@@ -29,9 +29,9 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 
 | Nome | Codinome | Nacionalidade | Subcategoria |
 |------|----------|---------------|-------------|
-| Dr. Kaelen Thorne | O Silêncio Entrópico | Polonês | [Villains](Villains%20/) |
-| Desconhecido | O Absoluto | Desconhecida — V-023 | [Villains](Villains%20/) |
-| Desconhecido | O Mnemônico | Desconhecida — V-024 | [Villains](Villains%20/) |
+| Dr. Kaelen Thorne | O Silêncio Entrópico | Polonês | [Villains](Villains/) |
+| Desconhecido | O Absoluto | Desconhecida — V-023 | [Villains](Villains/) |
+| Desconhecido | O Mnemônico | Desconhecida — V-024 | [Villains](Villains/) |
 
 ### Anti-Heróis
 
