@@ -15,6 +15,7 @@ Esta subcategoria cataloga as realidades paralelas formalmente documentadas do G
 | V-007 | Universo Tecnológico | Consciência digital, corpos transformáveis e autonomia diante da infraestrutura total. | Expandido | [Abrir dossiê](V-007%20%E2%80%94%20Universo%20Tecnol%C3%B3gico/) |
 | V-008 | Universo Zumbi | Infecção neurobiológica, consciência parcial e sobrevivência sem desumanização. | Expandido | [Abrir dossiê](V-008%20%E2%80%94%20Universo%20Zumbi/) |
 | V-009 | Universo Sombrio | Heroísmo sob inércia moral, pragmatismo e a resistência contra o cinismo. | Expandido | [Abrir dossiê](V-009%20%E2%80%94%20Universo%20Sombrio/) |
+| V-010 | Universo dos Vilões | Estabilidade pós-vitória dos antagonistas, legitimidade e sucessão do Conclave. | Expandido | [Abrir dossiê](V-010%20%E2%80%94%20Universo%20dos%20Vil%C3%B5es/) |
 
 > **Nota de catalogação:** novos universos paralelos só devem ser acrescentados quando possuírem uma função narrativa definida e uma pasta documental própria.
 
