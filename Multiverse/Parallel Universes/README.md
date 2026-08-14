@@ -29,6 +29,7 @@ Esta subcategoria cataloga as realidades paralelas formalmente documentadas do G
 | V-021 | Universo do Desconhecido | Anomalias que reagem ao conhecimento, Áreas Nulas e a fragilidade da realidade. | Expandido | [Abrir dossiê](V-021%20%E2%80%94%20Universo%20do%20Desconhecido/) |
 | V-022 | Universo das Dimensões | Camadas de realidade, Variantes, Fendas Dimensionais e o risco das Convergências. | Expandido | [Abrir dossiê](V-022%20%E2%80%94%20Universo%20das%20Dimens%C3%B5es/) |
 | V-023 | Universo da Realidade Base | Coexistência social entre magia, ciência, super-humanos e o risco de uma perfeição sem liberdade. | Expandido | [Abrir dossiê](V-023%20%E2%80%94%20Universo%20da%20Realidade%20Base/) |
+| V-024 | Universo da Consciência | Campo Noético, memória ontológica, sonhos coletivos e o direito de ser alguém. | Expandido | [Abrir dossiê](V-024%20%E2%80%94%20Universo%20da%20Consci%C3%AAncia/) |
 
 > **Nota de catalogação:** novos universos paralelos só devem ser acrescentados quando possuírem uma função narrativa definida e uma pasta documental própria.
 

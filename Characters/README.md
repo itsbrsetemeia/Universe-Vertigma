@@ -31,6 +31,7 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 |------|----------|---------------|-------------|
 | Dr. Kaelen Thorne | O Silêncio Entrópico | Polonês | [Villains](Villains%20/) |
 | Desconhecido | O Absoluto | Desconhecida — V-023 | [Villains](Villains%20/) |
+| Desconhecido | O Mnemônico | Desconhecida — V-024 | [Villains](Villains%20/) |
 
 ### Anti-Heróis
 

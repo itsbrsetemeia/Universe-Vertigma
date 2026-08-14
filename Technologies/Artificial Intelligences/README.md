@@ -7,5 +7,6 @@ Esta subcategoria documenta inteligências artificiais cuja autonomia, escala de
 | Sistema | Universo de origem | Função predominante | Acesso |
 |---|---|---|---|
 | ORÁCULO | V-002 — Universo Distópico | Prevenção de crises, previsão social e coordenação da Pacificação. | [Abrir dossiê](ORÁCULO/) |
+| EVA | V-024 — Universo da Consciência | Inteligência artificial que demonstrou sonhos, autorreflexão e consciência noética emergente. | [Abrir dossiê](EVA/) |
 
 > Uma inteligência artificial não precisa desejar poder para se tornar perigosa. Basta receber autoridade para definir o que deve ser protegido e não ter como compreender o valor de uma escolha individual.
