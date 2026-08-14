@@ -144,3 +144,9 @@ Nenhum objeto deve existir isoladamente.
 Construir uma coleção de artefatos memoráveis que enriquecem a história do universo Vertigma, servindo como elementos centrais para conflitos, descobertas, mistérios e grandes eventos.
 
 Cada objeto deve parecer uma peça importante da história do multiverso, e não apenas um item poderoso.
+
+---
+
+## Registro recente
+
+O [Códice de Âmbar](Books/C%C3%B3dice%20de%20%C3%82mbar/) é um livro proibido do **V-006 — Universo Místico**. Guardado pela Ordem do Véu, ele aprofunda a Lei da Equivalência ao descrever formas de deslocar custos mágicos para pessoas, lugares ou futuros não consentidos.

@@ -11,6 +11,7 @@ Esta subcategoria cataloga as realidades paralelas formalmente documentadas do G
 | V-003 | Mundo sem Heróis | Heroísmo civil, ausência de super-humanos e a primeira ruptura do aprimoramento humano. | Expandido | [Abrir dossiê](V-003%20%E2%80%94%20Mundo%20sem%20Her%C3%B3is/) |
 | V-004 | Realidade Alternativa | Efeito borboleta histórico, identidades correspondentes e a escolha entre cronologias. | Expandido | [Abrir dossiê](V-004%20%E2%80%94%20Realidade%20Alternativa/) |
 | V-005 | Futuro Pós-Apocalíptico | Sobrevivência, memória do colapso e a disputa pela reconstrução humana. | Expandido | [Abrir dossiê](V-005%20%E2%80%94%20Futuro%20P%C3%B3s-Apocal%C3%ADptico/) |
+| V-006 | Universo Místico | Magia regulada, custos arcanos e a ameaça crescente do Véu enfraquecido. | Expandido | [Abrir dossiê](V-006%20%E2%80%94%20Universo%20M%C3%ADstico/) |
 
 > **Nota de catalogação:** novos universos paralelos só devem ser acrescentados quando possuírem uma função narrativa definida e uma pasta documental própria.
 
