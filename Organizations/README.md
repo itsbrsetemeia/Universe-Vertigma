@@ -15,3 +15,5 @@ Esta categoria reúne instituições, corporações, ordens e redes de poder que
 O [Diretório de Continuidade Cívica](Neutral%20Organizations/Diret%C3%B3rio%20de%20Continuidade%20C%C3%ADvica/) atua no Universo Ø / D administrando crises de memória e causalidade. Embora se apresente como proteção civil, seus métodos são o principal objeto de investigação da Contraprova.
 
 No [V-002 — Universo Distópico](../Multiverse/Parallel%20Universes/V-002%20%E2%80%94%20Universo%20Distópico/), [O Consórcio](Neutral%20Organizations/O%20Consórcio/) mantém uma ordem de estabilidade preditiva baseada no ORÁCULO, enquanto [A Liberdade](Hero%20Organizations%20/A%20Liberdade/) protege pessoas classificadas pelo sistema e disputa o sentido de segurança, autonomia e responsabilidade coletiva.
+
+No [V-003 — Mundo sem Heróis](../Multiverse/Parallel%20Universes/V-003%20%E2%80%94%20Mundo%20sem%20Her%C3%B3is/), o [Instituto Argos](Neutral%20Organizations/Instituto%20Argos/) representa a resposta humana organizada a catástrofes e aos perigos éticos do aprimoramento produzido pelo Projeto Limiar.
