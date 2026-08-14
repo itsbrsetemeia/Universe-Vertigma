@@ -23,6 +23,7 @@ Esta subcategoria cataloga as realidades paralelas formalmente documentadas do G
 | V-015 | Universo Biológico | Código Primevo, bioarquitetura e a disputa sobre os direitos de toda vida projetada. | Expandido | [Abrir dossiê](V-015%20%E2%80%94%20Universo%20Biol%C3%B3gico/) |
 | V-016 | Universo dos Monstros | Criaturas ancestrais, direitos ecológicos e o despertar do Primevo. | Expandido | [Abrir dossiê](V-016%20%E2%80%94%20Universo%20dos%20Monstros/) |
 | V-017 | Universo dos Anti-Heróis | Justiça cinzenta, códigos pessoais e a ameaça de controle moral absoluto. | Expandido | [Abrir dossiê](V-017%20%E2%80%94%20Universo%20dos%20Anti-Her%C3%B3is/) |
+| V-018 | Universo da Guerra Eterna | Militarização cíclica, trauma coletivo e a possibilidade de recusar a luta. | Expandido | [Abrir dossiê](V-018%20%E2%80%94%20Universo%20da%20Guerra%20Eterna/) |
 
 > **Nota de catalogação:** novos universos paralelos só devem ser acrescentados quando possuírem uma função narrativa definida e uma pasta documental própria.
 
