@@ -25,6 +25,7 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 | Kaelen Vance | O Pêndulo | Australiano | [Hero](Hero%20/) |
 | Aristeus | O Homem de Ouro | Grega | [Hero](Hero%20/) |
 | Kael Solis | Wonder Boy — O Filho do Sol | Australiana | [Hero](Hero%20/) |
+| Kendrick Everett | Irredutível | Canadense | [Hero](Hero%20/) |
 
 ### Vilões
 

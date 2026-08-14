@@ -25,7 +25,7 @@ A equipe existe para impedir que os Portadores sejam tratados como ferramentas, 
 
 | Portador | Codinome | Herança | Função inicial |
 |---|---|---|---|
-| Diego Arantes | Irredutível | Resiliência Irrefreável | Linha de frente e proteção |
+| Kendrick Everett | Irredutível | Resiliência Irrefreável | Linha de frente, resgate e proteção |
 | Kael Moreau | Paradoxo | Roda do Destino | Adaptação e imprevisibilidade |
 | Aurora Valen | Arcana | Baralho Arcano | Conhecimento místico e controle de campo |
 | Seraphine Noctis | Réquiem | O Último Capítulo | Investigação da morte e manipulação de realidade narrativa |
