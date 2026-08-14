@@ -6,16 +6,16 @@
 |---|---|
 | Nome | Portadores |
 | Realidade | V-202 — Universo Principal |
-| Natureza | Indivíduos dotados de Atributos |
+| Natureza | Indivíduos que possuem Heranças |
 | Categoria | Grupo de heróis e organização de apoio metafísico |
-| Origem dos poderes | Desejos, expectativas e vontades deixados após a morte |
+| Origem das habilidades | Desejos, expectativas e vontades deixados após a morte |
 | Base | Casa do Intervalo, localização protegida e móvel |
 | Lema | “Carregar não é obedecer.” |
 | Estado | Ativo, em formação |
 
-Os **Portadores** são pessoas que manifestaram **Atributos**, habilidades extraordinárias nascidas de desejos ou expectativas deixados por alguém que morreu. Um Atributo não é simplesmente um superpoder: é um legado metafísico que tenta continuar agindo através de outra vida.
+Os **Portadores** são pessoas que manifestaram **Heranças**, habilidades extraordinárias nascidas de desejos ou expectativas deixados por alguém que morreu. Uma Herança não é simplesmente um superpoder: é um legado metafísico que tenta continuar agindo através de outra vida.
 
-A habilidade final depende de três fatores: o desejo deixado para trás, a intensidade do vínculo entre mortos e vivos e a personalidade do Portador. Por isso, nenhum Atributo é transmitido de forma perfeitamente previsível. O mesmo desejo poderia produzir poderes diferentes em pessoas diferentes.
+A habilidade final depende de três fatores: o desejo deixado para trás, a intensidade do vínculo entre mortos e vivos e a personalidade do Portador. Por isso, nenhuma Herança é transmitido de forma perfeitamente previsível. O mesmo desejo poderia produzir poderes diferentes em pessoas diferentes.
 
 A equipe existe para impedir que os Portadores sejam tratados como ferramentas, armas ou herdeiros obrigatórios. Seu princípio fundador é simples: **receber um legado não significa obedecer ao morto**.
 
@@ -23,7 +23,7 @@ A equipe existe para impedir que os Portadores sejam tratados como ferramentas, 
 
 ## Integrantes iniciais
 
-| Portador | Codinome | Atributo | Função inicial |
+| Portador | Codinome | Herança | Função inicial |
 |---|---|---|---|
 | Diego Arantes | Irredutível | Resiliência Irrefreável | Linha de frente e proteção |
 | Kael Moreau | Paradoxo | Roda do Destino | Adaptação e imprevisibilidade |
@@ -35,7 +35,7 @@ Os perfis individuais dos integrantes serão desenvolvidos em arquivos próprios
 ## Arquivos
 
 - [História](História.md)
-- [Conceito dos Atributos](Conceito%20dos%20Atributos.md)
+- [Conceito das Heranças](Conceito%20dos%20Heranças.md)
 - [Filosofia](Filosofia.md)
 - [Organização e Base](Organização%20e%20Base.md)
 - [Regras e Limitações](Regras%20e%20Limitações.md)

@@ -2,7 +2,7 @@
 
 A pergunta central dos Portadores é: **até que ponto alguém deve viver de acordo com o desejo de quem morreu?**
 
-A equipe rejeita duas respostas fáceis. A primeira é tratar todo Atributo como uma bênção sagrada. A segunda é considerar todo legado uma contaminação que precisa ser destruída. Para os Portadores, cada caso exige compreender o desejo, reconhecer o custo e devolver a escolha ao indivíduo vivo.
+A equipe rejeita duas respostas fáceis. A primeira é tratar todo Herança como uma bênção sagrada. A segunda é considerar todo legado uma contaminação que precisa ser destruída. Para os Portadores, cada caso exige compreender o desejo, reconhecer o custo e devolver a escolha ao indivíduo vivo.
 
 O lema “Carregar não é obedecer” resume a posição do grupo. Um Portador pode cumprir a vontade de alguém, reinterpretá-la, negociá-la ou recusá-la. A recusa não apaga o morto; apenas impede que a morte continue governando uma vida sem consentimento.
 

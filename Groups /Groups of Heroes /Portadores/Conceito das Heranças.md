@@ -1,8 +1,8 @@
-# Conceito dos Atributos
+# Conceito das Heranças
 
-Um Atributo é a união instável entre um **desejo póstumo** e uma **vida sobrevivente**. Ele não funciona como uma herança genética, uma entidade independente ou uma simples bênção. É uma relação que precisa ser interpretada.
+Uma Herança é a união instável entre um **desejo póstumo** e uma **vida sobrevivente**. Ele não funciona como uma herança genética, uma entidade independente ou uma simples bênção. É uma relação que precisa ser interpretada.
 
-Cada Atributo possui três camadas:
+Cada Herança possui três camadas:
 
 | Camada | Significado |
 |---|---|
@@ -14,4 +14,4 @@ O Vestígio pode permanecer inconsciente. Um Portador talvez use seus poderes du
 
 A equipe evita chamar os mortos de “doadores”. Essa palavra sugere consentimento e transação. Muitos desejos foram deixados sem autorização para continuar, e o Portador não tem obrigação de agradecer por algo que também pode ser uma prisão.
 
-Um Atributo amadurece quando Portador e Vestígio deixam de competir pelo controle. Isso não significa que o Portador obedece ao morto; significa que aprende a transformar uma herança involuntária em uma decisão própria.
+Uma Herança amadurece quando Portador e Vestígio deixam de competir pelo controle. Isso não significa que o Portador obedece ao morto; significa que aprende a transformar uma herança involuntária em uma decisão própria.
