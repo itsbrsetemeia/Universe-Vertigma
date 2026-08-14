@@ -43,6 +43,7 @@ O objetivo é criar um universo vivo, onde cada personagem, organização, plane
 📁 Planets/
 📁 Galaxies/
 📁 Dimensions/
+📁 Multiverse/
 📁 Timeline/
 📁 Events/
 📁 Lore/
