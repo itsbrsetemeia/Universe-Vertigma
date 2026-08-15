@@ -12,6 +12,7 @@ Esta subcategoria contém os personagens que lutam pelo bem e protegem os inocen
 | Kendrick Everett | Irredutível | Canadense |
 | Kael Moreau | Paradoxo | Franco-canadense |
 | Aurora Valen | Arcana | Brasileira |
+| Maya Solenne | Lunar Veil | A definir |
 ## Arquivos Individuais
 
 - [Astra](Astra's%20files%20/)
@@ -21,4 +22,5 @@ Esta subcategoria contém os personagens que lutam pelo bem e protegem os inocen
 - [Kendrick Everett (Irredutível)](Kendrick%20Everett%20(Irredut%C3%ADvel)/)
 - [Kael Moreau (Paradoxo)](Kael%20Moreau%20(Paradoxo)/)
 - [Aurora Valen (Arcana)](Aurora%20Valen%20(Arcana)/)
+- [Maya Solenne (Lunar Veil)](Maya%20Solenne%20(Lunar%20Veil)/)
 

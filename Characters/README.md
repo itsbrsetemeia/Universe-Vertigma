@@ -28,6 +28,7 @@ Este diretório contém todos os personagens do Universo Vertigma, organizados p
 | Kendrick Everett | Irredutível | Canadense | [Hero](Hero%20/) |
 | Kael Moreau | Paradoxo | Franco-canadense | [Hero](Hero%20/) |
 | Aurora Valen | Arcana | Brasileira | [Hero](Hero%20/) |
+| Maya Solenne | Lunar Veil | A definir | [Hero](Hero%20/) |
 
 ### Vilões
 
