@@ -8,3 +8,5 @@ Esta subcategoria reúne antagonistas cujos objetivos, métodos e visões de mun
 | [O Mnemônico](O%20Mnemônico/) | V-024 — Universo da Consciência | Controle de memória coletiva como forma de alterar história, identidade e realidade percebida. | [Abrir dossiê](O%20Mnemônico/) |
 | [Dr. Kaelen Thorne](Dr.%20Kaelen%20Thorne/) | V-202 — Universo Principal | O Silêncio Entrópico: a entropia como destino inevitável e a resistência como ilusão. | [Abrir dossiê](Dr.%20Kaelen%20Thorne/) |
 | [Dominus (Adrian Vale)](Dominus%20(Adrian%20Vale)/) | V-202 — Universo Principal | Controle absoluto como resposta traumática à impotência e à desigualdade. | [Abrir dossiê](Dominus%20(Adrian%20Vale)/) |
+
+| [Akira-Ø — O Samurai do Vazio](Akira-Ø/) | Universo Ø / D — Diabólico | Re-Esculpido que corta possibilidades, memórias e futuros. | [Abrir ficha](Akira-Ø/) |
